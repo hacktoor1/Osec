@@ -1,5 +1,5 @@
 ---
-description: Mosaad Sallam(h0tak88r) | Pentester | BugHunter | Coder
+description: Abdelrahman Ali(H3ckt00r) | Pentester | Red Teamer
 ---
 
 # 🧑 Whoami
@@ -9,13 +9,12 @@ description: Mosaad Sallam(h0tak88r) | Pentester | BugHunter | Coder
 
 ## Welcome to My Cybersecurity Corner!
 
-Hello there! I'm Mosad Sallam, an avid cybersecurity enthusiast, embarking on a journey to explore and share insights into the dynamic world of digital security.
-
+Hello there! I'm Abdelrahman Ali an avid cybersecurity enthusiast, embarking on a journey to explore and share insights into the dynamic world of digital security.
 ### Content:
 
 Dive into various cybersecurity fields with me, including:
 
-* Web AppSec, Android AppSec, Network Sec, Bug Bouty, API Sec, Operating Systems, Programming, Desktop Apps Sec
+*  Web AppSec. Network Sec. Revers Engeeniring, Malware Dev. Operating Systems,   Programming, Red Reaming Operation 
 
 ... and many more security-related domains.
 
