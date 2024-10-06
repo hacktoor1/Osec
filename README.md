@@ -1,27 +1,22 @@
----
-description: Abdelrahman Ali(H3ckt00r) | Pentester | Red Teamer
----
+# Spider Security
 
-# 🧑 Whoami
 
-> If you enjoy what I do, please support me\
-> &#x20;Buy Me Ko-fi! [https://ko-fi.com/h0tak88r](https://ko-fi.com/h3ckt0r)
 
-## Welcome to My Cybersecurity Corner!
+![Logo](https://i.ytimg.com/vi/2NLi4wzAvTw/maxresdefault.jpg)
 
-Hello there! I'm Abdelrahman Ali an avid cybersecurity enthusiast, embarking on a journey to explore and share insights into the dynamic world of digital security.
-### Content:
+## 🔗 Links
 
-Dive into various cybersecurity fields with me, including:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hacktor/)
 
-*  Web AppSec. Network Sec. Revers Engeeniring, Malware Dev. Operating Systems,   Programming, Red Reaming Operation 
+## 🛠 Content
 
-... and many more security-related domains.
+Network Pentesting, Web Pentesting, Source code Review , Scripting (Python/Bash) OSCP Level, CRTP, OSEP, Revers Engeenering  && Malware Develpment
 
-### What to Expect:
+## Authors
 
-In this digital space, you'll find my comprehensive notes in cybersecurity—a collection of insights gathered from diverse resources, reflecting my continuous learning journey. While you might encounter content similar to what you've seen elsewhere, the goal is to curate a repository that serves as both a personal reference and a resource for fellow cybersecurity enthusiasts in their quest for knowledge.
+* [@H3ckt0r](https://github.com/hacktoor1)
+* [@Dark-Night0](https://github.com/Dark-Night0)
 
-Join me as we navigate the ever-expanding landscape of cybersecurity. Every line of code, every application, and every connection holds the potential for both innovation and risk.
+## License
 
-Let's dive into the intriguing realm of cybersecurity together!
+[MIT](https://github.com/hacktoor1/Spider-Security?tab=MIT-1-ov-file)
